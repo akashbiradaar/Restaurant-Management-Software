@@ -9,7 +9,7 @@
 
 #### 1. View Available menus
 
-![](Screenshots/basic.PNG)
+![](Screenshots/Basic.PNG)
 
 ---
 
@@ -25,6 +25,6 @@
 
 ---
 
-#### 1. Generate Receipt of Bill
+#### 4. Generate Receipt of Bill
 
 ![](Screenshots/Bill%20of%20Ordered%20Items.PNG)
