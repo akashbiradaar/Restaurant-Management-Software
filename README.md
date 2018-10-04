@@ -9,22 +9,22 @@
 
 #### 1. View Available menus
 
-![](Screenshots/basic.png)
+![](Screenshots/basic.PNG)
 
 ---
 
 #### 2. Checkmark Ordered Items
 
-![](Screenshots/Select%20Menus.png)
+![](Screenshots/Select%20Menus.PNG)
 
 ---
 
 #### 3. Get Total of Ordered Items
 
-![](Screenshots/Total%20of%20Ordered%20Items.png)
+![](Screenshots/Total%20of%20Ordered%20Items.PNG)
 
 ---
 
 #### 1. Generate Receipt of Bill
 
-![](Screenshots/Bill%20of%20Ordered%20Items.png)
+![](Screenshots/Bill%20of%20Ordered%20Items.PNG)
